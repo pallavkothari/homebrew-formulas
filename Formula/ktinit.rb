@@ -2,7 +2,7 @@ class Ktinit < Formula
   desc "Generating Kt Projects"
   homepage "https://github.com/pallavkothari/ktinit"
   url "https://github.com/pallavkothari/ktinit/releases/download/v1.0/ktinit-0.0.1-SNAPSHOT.zip"
-  sha256 "d26902732201f1b6111eb7bb0017c9164ef1c41d"
+  sha256 "c8ec98ea5fa28fe10f501068a09b321627015a7102ff346b0ab7dd8fece812b5"
   head "https://github.com/pallavkothari/ktinit"
 
   def install
