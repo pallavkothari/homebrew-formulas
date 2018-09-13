@@ -1,4 +1,4 @@
-class KtInit < Formula
+class Ktinit < Formula
   desc "Generating Kt Projects"
   homepage "https://github.com/pallavkothari/ktinit"
   url "https://github.com/pallavkothari/ktinit/releases/download/v1.0/ktinit-0.0.1-SNAPSHOT.zip"
