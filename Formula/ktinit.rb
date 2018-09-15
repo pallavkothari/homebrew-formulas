@@ -5,6 +5,9 @@ class Ktinit < Formula
   sha256 "c8ec98ea5fa28fe10f501068a09b321627015a7102ff346b0ab7dd8fece812b5"
   head "https://github.com/pallavkothari/ktinit"
 
+  depends_on "gradle"
+  depends_on :java => "1.8+"
+
   def install
     libexec.install "bin"
     libexec.install "lib"
